@@ -1,4 +1,6 @@
 # Developing a Simple Webserver
+Date: 10/10/2023
+
 ## AIM:
 To develop a simple webserver to serve html pages.
 
@@ -51,6 +53,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![Alt text](web.PNG)
+![Alt text](web1.PNG)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
