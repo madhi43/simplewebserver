@@ -1,5 +1,5 @@
-# Developing a Simple Webserver
-Date: 10/10/2023
+# Ex-1 Developing a Simple Webserver
+## Date: 10/10/2023
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -52,7 +52,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Alt text](web.PNG)
+![Alt text](image-1.png)
 ![Alt text](image.png)
 
 ## RESULT:
